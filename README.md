@@ -24,8 +24,4 @@ Production-grade, multi-AZ cloud infrastructure deployed on AWS engineered for h
 
 ## 👤 Author
 * **Tushar Bhendarkar** — [LinkedIn](https://linkedin.com/in/tusharbhendarkar) | [GitHub](https://github.com/tusharbhendarkar30)
-```[cite: 1]
 
----
-
-Let me know when you are ready, and I will provide the documentation package for your **second project (AWS Blue-Green Deployment)**!
